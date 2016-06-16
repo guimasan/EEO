@@ -1,8 +1,6 @@
-# EletrOrganicos
-Experimentações EletrOrganicas 
+# Experimentações EletrOrganicas (EEO)
 
 gypsylabat.wordpress.com/
-
 
 
 
