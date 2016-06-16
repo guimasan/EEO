@@ -1,2 +1,8 @@
-# EletrOrg-nicos
-Experimentações EletrOrgãnicas 
+# EletrOrganicos
+Experimentações EletrOrganicas 
+
+gypsylabat.wordpress.com/
+
+
+
+
