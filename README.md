@@ -1,6 +1,6 @@
 # Experimentações EletrOrganicas (EEO)
 
-gypsylabat.wordpress.com/
+http://gypsylabat.wordpress.com/
 
 Referências:
 
